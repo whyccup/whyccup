@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @whyccup
 - 👀 I’m interested in Game
-- 🌱 I’m currently learning Gatsby
+- 🌱 I’m currently learning Grammar
 - 💞️ I’m working for thoughtWorks
-- 📫 How to reach me whyccup@gmail.com
+- 📫 How to reach me whyccup@163.com
 
 <!---
 whyccup/whyccup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
