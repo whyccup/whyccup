@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @whyccup
 - 💞️ I’m working for thoughtWorks
 - 👀 I’m interested in Game
-- 🌱 I’m currently learning Grammar
+- 🌱 I’m currently learning Unity/Power Apps
 
 
 <!---
